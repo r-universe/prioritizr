@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "oppr"]
+	path = oppr
+	url = https://github.com/prioritizr/oppr
+	shallow = true
+	registered = true
+[submodule "prioritizr"]
+	path = prioritizr
+	url = https://github.com/prioritizr/prioritizr
+	shallow = true
+	registered = true
+[submodule "prioritizrdata"]
+	path = prioritizrdata
+	url = https://github.com/prioritizr/prioritizrdata
+	shallow = true
+	registered = true
+[submodule "wdpar"]
+	path = wdpar
+	url = https://github.com/prioritizr/wdpar
+	shallow = true
+	registered = true

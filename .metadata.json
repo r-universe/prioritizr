@@ -1,0 +1,18 @@
+[
+  {
+    "package": "oppr",
+    "oncran": true
+  },
+  {
+    "package": "prioritizr",
+    "oncran": true
+  },
+  {
+    "package": "prioritizrdata",
+    "oncran": true
+  },
+  {
+    "package": "wdpar",
+    "oncran": true
+  }
+]
