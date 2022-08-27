@@ -18,6 +18,11 @@
 	url = https://github.com/prioritizr/prioritizrdata
 	shallow = true
 	registered = true
+[submodule "surveyvoi"]
+	path = surveyvoi
+	url = https://github.com/prioritizr/surveyvoi
+	shallow = true
+	registered = true
 [submodule "wdpar"]
 	path = wdpar
 	url = https://github.com/prioritizr/wdpar

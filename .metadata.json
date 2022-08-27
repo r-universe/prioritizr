@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "surveyvoi",
+    "oncran": true
+  },
+  {
     "package": "wdpar",
     "oncran": true
   }
