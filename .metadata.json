@@ -1,5 +1,9 @@
 [
   {
+    "package": "oppr",
+    "oncran": true
+  },
+  {
     "package": "prioritizr",
     "oncran": true
   },
@@ -8,15 +12,11 @@
     "oncran": true
   },
   {
-    "package": "wdpar",
-    "oncran": true
-  },
-  {
     "package": "surveyvoi",
     "oncran": true
   },
   {
-    "package": "oppr",
+    "package": "wdpar",
     "oncran": true
   }
 ]
