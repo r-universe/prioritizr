@@ -1,31 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/prioritizr/prioritizr.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "oppr"]
-	path = oppr
-	url = https://github.com/prioritizr/oppr
-	shallow = true
-	registered = true
 [submodule "prioritizr"]
 	path = prioritizr
 	url = https://github.com/prioritizr/prioritizr
-	shallow = true
-	registered = true
-[submodule "prioritizrdata"]
-	path = prioritizrdata
-	url = https://github.com/prioritizr/prioritizrdata
-	shallow = true
-	registered = true
-[submodule "surveyvoi"]
-	path = surveyvoi
-	url = https://github.com/prioritizr/surveyvoi
-	shallow = true
-	registered = true
-[submodule "wdpar"]
-	path = wdpar
-	url = https://github.com/prioritizr/wdpar
 	shallow = true
 	registered = true
 [submodule "cgalh"]
