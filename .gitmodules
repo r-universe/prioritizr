@@ -8,13 +8,3 @@
 	url = https://github.com/prioritizr/prioritizr
 	shallow = true
 	registered = true
-[submodule "cgalh"]
-	path = cgalh
-	url = https://github.com/dickoa/cgalh
-	shallow = true
-	registered = false
-[submodule "prepr"]
-	path = prepr
-	url = https://github.com/dickoa/prepr
-	shallow = true
-	registered = false
