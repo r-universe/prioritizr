@@ -1,20 +1,15 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/prioritizr/prioritizr.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "prioritizr"]
 	path = prioritizr
 	url = https://github.com/prioritizr/prioritizr
-	shallow = true
-	registered = true
 [submodule "cplexAPI"]
 	path = cplexAPI
 	url = https://github.com/cran/cplexAPI
-	shallow = true
 	registered = false
 [submodule "rcbc"]
 	path = rcbc
 	url = https://github.com/dirkschumacher/rcbc
-	shallow = true
 	registered = false
