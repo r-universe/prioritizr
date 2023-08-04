@@ -2,13 +2,13 @@
 	path = .registry
 	url = https://github.com/prioritizr/prioritizr.r-universe.dev
 	branch = HEAD
-[submodule "prioritizr"]
-	path = prioritizr
-	url = https://github.com/prioritizr/prioritizr
 [submodule "cplexAPI"]
 	path = cplexAPI
 	url = https://github.com/cran/cplexAPI
 	registered = false
+[submodule "prioritizr"]
+	path = prioritizr
+	url = https://github.com/prioritizr/prioritizr
 [submodule "rcbc"]
 	path = rcbc
 	url = https://github.com/dirkschumacher/rcbc
