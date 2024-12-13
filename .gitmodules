@@ -6,6 +6,9 @@
 	path = cplexAPI
 	url = https://github.com/cran/cplexAPI
 	registered = false
+[submodule "prepr"]
+	path = prepr
+	url = https://github.com/prioritizr/prepr
 [submodule "prioritizr"]
 	path = prioritizr
 	url = https://github.com/prioritizr/prioritizr
