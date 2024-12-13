@@ -9,6 +9,7 @@
 [submodule "prepr"]
 	path = prepr
 	url = https://github.com/prioritizr/prepr
+	branch = debug-autoconf
 [submodule "prioritizr"]
 	path = prioritizr
 	url = https://github.com/prioritizr/prioritizr
